@@ -1,5 +1,3 @@
-Integrantes do grupo: Guilherme Iago Schmidt Thomaz, Gustavo Oliveira Luquetti, Marcos Sousa de Paula da Mota Ribeiro, Yasmin Lopes de Moura
-
 # SCD Server
 
 Plataforma de chat em tempo real para o projeto **SCD — Sistemas Concorrentes e Distribuídos**.

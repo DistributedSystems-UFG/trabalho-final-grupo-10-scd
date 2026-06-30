@@ -1,0 +1,4 @@
+name: prod
+variables:
+  - name: api_url
+    value: http://54.20.16.95:8070

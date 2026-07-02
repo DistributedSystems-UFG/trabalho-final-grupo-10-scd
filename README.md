@@ -106,3 +106,11 @@ Coleções de requisições em `docs/api/`, organizadas por serviço:
 - `docs/api/collections/server/` — REST API
 - `docs/api/collections/socket-server/` — WebSocket
 - `docs/api/collections/ai-server/` — Health checks
+
+## Desenvolvimento Local 
+
+Iniciar ambiente completo: 
+`cd scd-server/infra`
+`docker-compose up -d`
+ 
+Frontend (web): [http://localhost:3001]

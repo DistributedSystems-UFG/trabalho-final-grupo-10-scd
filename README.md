@@ -113,4 +113,4 @@ Iniciar ambiente completo:
 `cd scd-server/infra`
 `docker-compose up -d`
  
-Frontend (web): [http://localhost:3001]
+Frontend (web): [http://localhost:3001](http://localhost:3001)
